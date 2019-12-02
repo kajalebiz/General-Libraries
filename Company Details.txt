@@ -1,0 +1,156 @@
+
+	Ebiz cpanel credential
+
+		URL		: http://ebizwork.com/cpanel
+		Username 	: ebizwo6
+		New password 	: Bx?*%5rvx?*%5rvzP%RB
+
+==================================================================================================
+	
+	Facebook
+	
+		Username : webdeveloper1011@gmail.com
+		Password : hENRY@123
+
+===================================================================================================
+	
+	Gmail
+	
+		Username : webdeveloper1011@gmail.com
+		Password : chits1234
+		
+		Username : developer.esb@gmail.com
+		Password : developer123
+
+=========================================================================================================
+	
+	Mail SMTP
+
+		SMTP Host 		: mail.ebizwork.com
+		SMTP Port 		: 587
+		Encryption 		: none
+		Auto TLS 		: OFF
+		Authentication 		: on
+		SMTP Username 		: developer@ebizwork.com
+		SMTP Password 		: yBbb_SU[g]Sq
+
+		billw@intouch-marketing.com
+
+      		webdeveloper1011@gmail.com
+
+		kajal.dhameliya@esparkbizmail.com
+
+===============================================================================================
+
+	Paypal 
+
+	Normal User ::
+	
+		Partner				: PayPal
+		Merchant Login		: webdeveloper1011
+		User Login Name		: amazonreviewer502
+		Password 			: Chits123
+		Security Que Ans of all 3 : espark
+		
+		
+	sandbox
+	
+		Username 	: webdeveloper
+		Password 	: esparkbiz@123
+		Vendor 		: webdeveloper1011
+		Partner 	: PayPal
+		
+		Username 	: amazonreviewer502@gmail.com
+		Password 	: chits123
+		
+===================================================================================================
+	woocrack
+	
+	https://woocrack.com/
+	
+		Username : espl
+		Password : Shreeji@123
+		
+==================================================================================================================
+
+	https://squareup.com/signup?
+
+		Email : aarti@esparkinfo.com	
+		password : chits1234
+		country : false
+
+==================================================================================================================
+	aavocode
+	
+		Username : vivek@thehubguru.com
+		Password : Henry2020#
+
+================================================================================================================
+	ACF KEY
+
+		b3JkZXJfaWQ9NzM3MzZ8dHlwZT1kZXZlbG9wZXJ8ZGF0ZT0yMDE2LTAxLTI4IDA3OjA1OjU3
+
+================================================================================================================
+	Gravity Form
+	
+		fa16a566d7f85daa479b2df665098117
+
+=================================================================================================
+
+	businessbloomer.com
+	
+		Username : webdeveloper1011@gmail.com
+		Password : Chits@123
+
+=================================================================================================
+
+	https://projects.invisionapp.com/d/main#/projects
+	
+		Username : chintan@esparkinfo.com
+		Password : chits123
+
+================================================================================================
+
+	Stripe
+	
+		Username : rkatba@gmail.com
+		Password : 8980332354@Rk
+
+================================================================================================
+
+	https://home.openweathermap.org/users/sign_up
+
+		Username 	: developer
+		Email 		: webdeveloper1011@gmail.com
+		Password 	: chits@123
+
+================================================================================================
+
+	https://github.com	
+
+		Username 	: kajalebiz
+		Email 		: kajal.dhameliya@esparkbizmail.com
+		Password 	: chits@1234
+
+================================================================================================
+
+	https://www.idxbroker.com/
+
+		Username: idxdemo 
+		Password: idxdemo 
+		Demo Website: demo.idxbroker.com
+
+================================================================================================
+
+<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#8362;</span>372.00</span>
+
+
+
+
+
+
+
+
+http://taskgrids.com/alj ( 8 hours ) --   ,front page and team , project page  done ,contact, history career and project inner development done
+
+

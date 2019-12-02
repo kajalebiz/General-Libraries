@@ -1,0 +1,2220 @@
+http://192.168.9.1:1000/fgtauth?02030ca1b5287b86
+
+Webappdesign
+
+	Taskgrid
+	
+		http://www.taskgrids.com/webappdesign
+		
+			Admin 
+			
+				Username : gebtadmin
+				Password : y2m2HRP!
+				
+			FTP:
+			
+				Host : 192.168.12.2
+				Username : ftp_webappdesign
+				Password : webappdesign@123
+				
+			Database 
+			
+				Database : espark_webappdesign
+				Username : espark_webappdesign
+				Password : sdf9sGD6757
+				
+==============================================================================================
+epaGhana
+
+	APPPRESSER
+		https://myapppresser.com/stillwaters/wp-admin/customize.php?app=17
+
+		Admin :
+			UserName : stillwaters
+			Password : HM121214hm!!	
+
+	Taskgrids
+		http://epa.stillwaters.io
+
+		Admin : 
+			UserName : wpbiz
+			Password : vT36mmifqVhWP%0JXo
+
+	SFTP:
+		/var/www/html/wp-content/themes/ion-ap3-child
+			Host : 34.221.52.126
+			Username : centos
+			Password : Ghana2018!
+			Protocol:SFTP
+		
+
+		
+==================================================================================================
+
+http://www.taskgrids.com/adventourist
+
+	Admin
+	
+		username : wpbiz
+		password : Q@Hiz)Q4rJ8XP(J%qt
+
+	FTP:
+	
+		Host : 192.168.12.2
+		username : ftp_adventourist
+		password : adventourist@123
+
+	DataBase :
+	
+		DataBase : espark_adventourist
+		username : espark_adventourist
+		passowrd : ws23*&^*&
+		
+================================================================================================================
+
+http://beta.adventourist.world/
+
+	Authentication :
+	
+		Uname : @dventourist
+		Password : Travel1002
+		
+		
+	Admin
+	
+		username : wpbiz
+		password : Q@Hiz)Q4rJ8XP(J%qt
+
+		
+	FTP :
+	
+		Host : ftp.adventourist.world
+		username : webdeveloper@adventourist.world
+		password : 9aH3J?1fCnc{
+
+===============================================================================================================
+
+http://www.taskgrids.com/ucrowayton
+
+	Admin :
+		Username : wpbiz
+		Password : u(E&IwxGR5@ijNHyap
+
+	FTP :
+		Host : 192.168.12.2
+		Username : ftp_ucrowayton
+		Password : ucrowayton@123
+
+=====================================================
+thelimegroup - taskgrids
+
+http://www.taskgrids.com/thelimegroup/
+
+	WP Admin
+			Username: SarahAtLime
+			Password: 8GJpMrB3fzFG
+
+	FTP Details:
+			Host     : 192.168.12.2
+			Username : ftp_thelimegroup
+			Password : thelimegroup@123
+			
+	Database:
+			Database : espark_thelimegroup
+			Username : espark_thelimegroup
+			Password : sdf9sGD6757
+
+
+---------------------------------------------------------------------------
+thelimegroup-live
+
+http://thelimegroup.com/wordpress/wp-admin
+
+	WP Admin
+
+		Username: SarahAtLime
+		Password: 8GJpMrB3fzFG
+ 
+
+
+
+	CPanel
+		https://wphosting.com.au/
+			Username: lime.admin@thelimegroup.com
+			Password: Ninj4n33r!
+	
+===============================================================================
+adventourist 
+
+http://www.taskgrids.com/adventourist
+
+http://adventourist.world/submit/
+
+	Admin
+	
+		username : wpbiz
+		password : Q@Hiz)Q4rJ8XP(J%qt
+
+	Siteground :
+
+		username  : shm1971@yahoo.com
+		passsword : LoveLand02$$
+
+	FTP LIVE : 
+
+		Host : adventourist.world
+		username : webdeveloper@adventourist.world
+		password : 9aH3J?1fCnc{	
+
+	FTP:
+	
+		Host : 192.168.12.2
+		username : ftp_adventourist
+		password : adventourist@123
+
+	DataBase :
+	
+		DataBase : espark_adventourist
+		username : espark_adventourist
+		passowrd : ws23*&^*&
+		
+		
+==========================================
+adventourist-BETA
+
+http://beta.adventourist.world/
+
+http://146.66.103.131/~adventou/beta/
+
+
+Cpanel : Siteground
+		
+		shm1971@yahoo.com
+		LoveLand02$$
+		
+	
+	Authentication :
+	
+		username : @dventourist
+		Password : Travel1002
+		
+
+	Cpanel : Siteground
+		username : shm1971@yahoo.com
+		password : LoveLand02$$
+	
+	Admin:
+	
+		username : wpbiz
+		password : Q@Hiz)Q4rJ8XP(J%qt
+
+	DataBase :
+	
+		DataBase : adventou_beta
+		username : adventou_beta
+		passowrd : TaG)oU@SuB(F
+	FTP :
+	adventourist.world
+webdeveloper@adventourist.world
+9aH3J?1fCnc{
+		Host : ftp.adventourist.world
+		username : webdeveloper@adventourist.world
+		password : 9aH3J?1fCnc{	
+
+		Host : adventourist.world
+		username : webdeveloper@adventourist.world
+		password : 9aH3J?1fCnc{	
+		
+
+==============================================================
+temarry
+	http://www.taskgrids.com/temarry/
+
+	Admin:
+		Username: wpbiz
+		Password: R40)NwXHOLi&yT@Eb$
+
+
+	FTP details
+		Host: 192.168.12.2
+		Username: ftp_temarry
+		Password: temarry@123
+
+===================================================================
+Dome
+	http://www.taskgrids.com/dome/wp-login.php
+
+	Admin:
+
+		Username :  wpbiz
+		Password :  6Y7TvqnLQJN3=cv
+
+	FTPS Detail:
+
+		Host : 192.168.12.2
+		Username : ftp_dome
+		Password : dome@123
+======================================================================
+captch key
+site-key:6LdpLm8UAAAAAEJyx6g3ekIgjUTePIkrHeYn2KQ9
+seceret key:6LdpLm8UAAAAAH4LFHg7lDaaTXZXq4aRzFTMVRmq
+============================================================================
+firstbaseunlimited
+
+	https://firstbaseunlimited.com
+
+		Admin:
+			Username: djones
+			New password: L0(psf*ue*NIPZOIwmq$JK2T
+		
+		SFTP
+			Port: 2222
+			Server: firstbase.sftp.wpengine.com
+			Username: firstbase-david
+			Password: S2jwRs716J9T
+========================================================================
+Hallintapaneelin osoite: http://www.fysio2000.fi/hallinta TAI https://wp1.louhi.net:2083 
+Tunnus: fysio200 
+Salasana: F?XuT58n2wt&
+
+=======================================================================
+mindbodysoulenergy
+
+	http://www.taskgrids.com/mindbodysoulenergy
+
+	FTP:
+		Host     : 192.168.13.2
+		Username : ftp_mindbodysoulenergy
+		Password : mindbodysoulenergy@123
+
+	Database: 
+		Database : espark_mindbodysoulenergy
+		Username : espark_mindbodysoulenergy
+		Password : sdsdjhkjnsed6757
+
+	Admin:
+		Username : wpbiz
+		Password : IH6YNs@FyIPmepop7O
+
+===========================================================================
+curo
+
+	http://www.taskgrids.com/curo
+		
+	wp-admin:
+		url          :http://192.168.10.82/curo/wp-admin/
+		Username     :wpbiz
+		password     :AYBYRdQhu@%2&hIIRv
+
+	Database
+		db_url       :http://192.168.12.2/phpmyadmin/
+		db_name      :esb_curo
+		db_username  :root
+		db_password  :
+=====================================================================
+fourbynorth
+
+	http://www.taskgrids.com/fourbynorth
+
+		WP Admin :
+			Username : wpbiz
+			Password : !TYJM7z4IA!DySpS7l
+
+		FTP :
+			Hostname : 192.168.13.2
+			Password : forthbynorth@123
+
+		Database: 
+			Database : espark_fourbynorth
+			Username : espark_fourbynorth
+			Password : sdsdjhkjnsed6757
+==============================================================
+therightclick3
+
+	http://therightclick3.staging.wpengine.com
+
+		FTP:
+			Host     : 104.196.192.179
+			Port     : 2222
+			Username : therightclick3-dev
+			Password : LE53muyuJsHS
+		Admin:
+			Username : ninedot
+			Password : gUR@bd!nP4VDAov9UHpbG7Yg
+
+================================================================
+hipnation.dev.shepherdsloft.net
+
+	http://hipnation.dev.shepherdsloft.net
+
+
+		Dummy user details
+			Username : webdeveloper1011@gmail.com
+			Password : y2m2HRP!
+
+
+		https://orion.managewp.com/
+			Username : ATdev@andersontaylor.com
+			Password : Anderson01!
+====================================================================
+azrom
+	
+https://azrom.ussl.co
+
+	https://azrom.com/wp-admin/
+
+		Admin
+
+			username : teamstepup
+			password : #TeamStepUp1213
+
+		FTP:
+
+			Host : azrom.ussl.co
+			username : developer@azrom.ussl.co
+			Password : 44Cr9TWUDApKY
+
+			Host : azrom.com
+			username : developer@azrom.com
+			Password : 44Cr9TWUDApKY	
+=======================================================================
+ucrowayton
+	http://ebizwork.com/ucrowayton/wp-admin
+
+		WP Admin ::
+			Username : wpbiz
+			Password : u(E&IwxGR5@ijNHyap
+
+		ebizwork.com
+		Log In  ucrowayton  WordPress
+
+		Ebiz Ftp
+
+			Hostname : ftp.ebizwork.com
+			user: ebizteam@ebizwork.com
+			pass: Ws%}8]Tw;5Io
+===========================================================================
+jfarrenprice	
+
+	jfarrenprice.com.au
+
+		WP Admin ::
+			Username : code
+			Password : bAHJJ(T9LTqgoj@W72aw%KvZ
+
+		FTP:
+			Domain: jfarrenprice.com.au
+			IP: 101.0.96.49
+			UserName: jfarrenpricecom
+			PassWord: ILU]T#!M~Cuq
+================================================================================
+hipnation
+
+	ebizwork.com/wpdemo/hipnation/login-3
+	
+	
+	Database: 
+		Database : ebizwo6_hipnation
+		Username : ebizwo6_hipnation
+		Password : FzU0;{^JR31U
+
+	Admin:
+		Username : wpbiz
+		Password : y2m2HRP!
+
+================================================================================
+toihinseinajoelle
+
+	http://www.taskgrids.com/toihinseinajoelle/wp-admin/
+	
+	Admin:
+		Username   : tommi
+		Password   : pCUl7QHzhWx8EQ3LtfFvyV)y 
+
+	FTP : 
+		Host : 192.168.13.2
+		Username  : ftp_toihinseinajoelle2
+		Password  : toihinseinajoelle2@123
+
+	fb access token   -----------EAAfEUjMo0BYBAEZCZAm2ktYLALIaGVy92PHfZAMwWVZADxYnVBHKOpyjEiZA3QMCZCL5ifXSogWIlmFjFrPQSu0YlocxjpWO5IjdzR9xeoYkLP4IhZBzRj2fz2uMptLVgJdrZBX3poNz3yvhr1KuRwUxXqXIZABrBzi14OZAHPndqrCp5nOT11kGtFyRhZCAb5AiqA83yXiR4vVPAZDZD
+
+Extended Token -------->
+
+EAAfEUjMo0BYBAPfNmHJbRt0qFK7a4hdjNZCsqTQ5ZCgyWB6JUbZC6kKTCLQJCngKXPIIlo4RqhSiB9Nc3YpFQDrHAZB3ZARdHMvuZAnsdFgYD93hKZBXDLItmfgqEMeveSkrZC20QAWtlZCVMUb0zw8QFrIjNaygi4rbgxOe95GaCpgZDZD
+
+================================================================================
+drts	
+	https://drts.com/wp-admin/post.php?post=1388&action=edit&lang=en
+	http://192.168.10.85/drts/wp-admin/
+
+		Admin:
+			Username   : teamstepup
+			Password   : #TeamStepUp1213	
+		Host Login :
+			Bluehost
+			Drts.com
+			Drts.1234
+
+=================================================================================
+drts	
+	
+	
+	Database: 
+		Database : ebizwo6_drts
+		Username : ebizwo6_drts
+		Password : e-g[F$mT]E@8
+
+=====================================================================================
+Ebiz cpanel credential
+
+	URL: http://ebizwork.com/cpanel
+	Username : ebizwo6
+	New password : Bx?*%5rvx?*%5rvzP%RB
+
+
+=====================================================================================
+summerhaven
+
+	OLD
+	Admin:
+		Username : wpbiz
+		Password : IH6YNs@FyIPmepop7O
+
+	updated ---- https://app.avocode.com/projects/734456/groups/3128191/
+
+	https://app.avocode.com/projects/734456/groups/2789225/
+
+	https://app.avocode.com/revisions/33391748/?design=21593916
+		vivek@thehubguru.com
+		Henry2015#
+
+	http://www.taskgrids.com/summerhaven
+
+	FTP:
+		Host     : 192.168.13.2
+		Username : ftp_summerhaven2
+		Password : summerhaven2@123
+
+	Database: 
+		Database : espark_summerhaven
+		Username : espark_summerhaven
+		Password : sdsd783457
+	Admin:
+		Username : wpbiz
+		Password : hIj0oICMxkvx#jlIqE
+
+	LIVE : OLD
+		Host     : wordpressshmysqldbserver
+		Username : Matt540
+		Password : Hermosa11!
+		Or try - Hermosa11!#
+----------------------------------------------------------------------------------
+	LIVE 
+		http://summerhavenim.com/
+		
+		Admin:
+			Username : wpbiz
+			Password : hIj0oICMxkvx#jlIqE
+		FTP :
+			Host : ftp://waws-prod-dm1-115.ftp.azurewebsites.windows.net/site/wwwroot
+			Username : summerhaven-wp\$summerhaven-wp 
+			Password : chp9B4NhbvweMLEFRX59359a8KnhjdNitXqQo0uXRp2lF5bq23Xwpjb25ny7
+
+----------------------------------------------------------------------------------
+	Eworkdemo
+
+		http://eworkdemo.com/development/summerhaven/wp-admin
+
+		Admin:
+			Username : wpbiz
+			Password : hIj0oICMxkvx#jlIqE
+	
+		FTP :
+			Server : ftp.eworkdemo.com
+			port : 21
+			Username : summerhaven@eworkdemo.com
+			Password : T[rV]VMYyem$
+
+=============================================================================
+taidehalli.seravo.fi
+	
+	 https://taidehalli.seravo.fi/wp-admin/
+	
+		Admin : 
+			Username : tommi
+			Password : 7Dk7vZPenF4gRKYPGwM2933Mnwq2VevR
+   
+		SSH/SFTP:
+			Host: sftp://taidehalli.seravo.fi
+    			Port: 11170
+    			User: taidehalli
+    			Pass: ZH2Yywz9kTzrN9dThYgTP4aC7rDxnfNK
+
+=============================================================================
+socialnetwork
+
+	http://www.taskgrids.com/socialnetwork
+
+		Admin :
+
+			Username : wpbiz
+			Password : y2m2HRP!	
+
+		FTP :
+			Host : 192.168.13.2
+			Username : ftp_socialnetwork2
+			Password : socialnetwork2@123
+
+		FTP :
+			host : 192.168.13.2
+			username : ftp_socialnet
+			Password : socialnet@123
+
+==================================================================================
+pytinki
+
+	http://www.taskgrids.com/pytinki
+
+	WP Admin :
+		Username : wpbiz
+		Password : ftmUj6^F8SdJ!4OaPm
+
+	FTP::
+		host  : 21
+		Hostname : 192.168.12.2
+		Username : ftp_pytinki
+		Password : pytinki@123
+
+	Database ::
+		Database : espark_pytinki
+		Username : espark_pytinki
+		Password : dsf234@#
+
+
+http://www.pytinki.fi/wp-admin
+	
+	WP Admin :
+		Username  : heikki
+		Password  : Kirkkokatu23!
+
+==================================================================================
+epecfi
+	https://epecfi.seravo.fi/wp-admin/
+	
+	Admin : 
+		Username  : tommi
+		Password  : T2d4hJphFxPTZ6rqDgAJDaCHKKZw772C
+
+
+==================================================================================
+
+Sara
+
+	https://app.avocode.com/projects/778836/groups/3016378/
+		vivek@thehubguru.com
+		Henry2015#
+
+	http://www.taskgrids.com/sara
+
+	FTP:
+		Host     : 192.168.13.2
+		Username : ftp_sara
+		Password : sara@123
+
+	Database: 
+		Database : espark_sara
+		Username : espark_sara
+		Password : espark_sara@786
+
+	Admin:
+		Username : wpbiz
+		Password : hpad^hlhmzKh8@2qCh
+-------------------------------------------------------
+
+Sara
+	http://eworkdemo.com/development/sara/wp-admin/
+
+	FTP 
+		Host     : eworkdemo.com
+		Username : vijay@eworkdemo.com
+		Password : kC-QCo$X,3NV
+		Port 	 : 21
+
+	Database: 
+		Database : eworkdem_sara
+		Username : eworkdem_sara
+		Password : xMB9I,kl8t?]
+	Admin:
+		Username : wpbiz
+		Password : hpad^hlhmzKh8@2qCh
+
+
+Custom Twitter Feeds
+================================================Make a quick donation now ===============================
+
+abudhabiaviation
+
+	http://www.taskgrids.com/abudhabiaviation/wp-admin
+	
+	Admin:
+	
+		UserName: abudhabiaviation 
+		Password : 40ab&4kbuxpYoJgos%
+
+	Database: 
+		Database : espark_abudhabiavi
+		Username : espark_abudhabiavi
+		Password : espark_abudhabiavi@786
+
+	FTP:
+		Host : 192.168.13.2
+		UserName : ftp_abudhabiavi
+		Password : abudhabiavi@123
+		
+	NexaFTP
+	Host : 34.239.53.69 
+	Username : chitan@nexatestwp.com
+	Password : zj9()W*0tvz(
+	
+
+------------------------------------------------------------------------------------------
+abudhabiaviation
+
+	http://abudhabiaviation.nexatestwp.com/
+
+	Admin:
+	
+		UserName: abudhabiaviation
+		Password : 40ab&4kbuxpYoJgos%
+		
+	http://abudhabiaviation.nexatestwp.com/wp-admin
+		User : Auh@vi@tion 
+		Password : gX)N(pVmdNzqJBjI(@
+
+ebizwo6_abudhabiaviation
+P;NWjYo0@A+%
+
+---------------------------------------------------------------------------------------------------
+
+<span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to %title%." href="%link%" class="%type%"><span property="name">%htitle%</span></a><meta property="position" content="%position%"></span>
+=================================================================================
+Credentials are:
+
+LIVE 		: http://www.marthawebb.com/smart-tools/
+DEMO 		: http://digitalparcdemo.com/marthawebb/dress-your-house/
+DESIGN 		: https://xd.adobe.com/view/7f5ee610-bed7-4f1d-6f4a-ddfb875ca0d6-096f/screen/8139a3f1-e253-4cf9-bcbc-0b8ba252fa86/Web-1920-3?fullscreen
+Control Panel	: https://dataride.implex.net:8443
+
+	WP Demo Site : http://digitalparcdemo.com/marthawebb/wp-admin/
+		UserName : wpbiz
+		Password : TKDqfsuYF(aGQ0!$&Q
+
+
+	FTP -- LIVE 
+		Host : web01.dataride.implex.net
+		UserName : laura-marthawebb-admin
+		Password : Password123!
+		Port : no port
+
+	Control Panel : https://dataride.implex.net:8443
+		UserName : marthawebb
+		Password : 7wn64aeikT
+
+	PayPal:
+		UserName : martha.webb@bcw-group.com
+		Password : Clark001*
+
+	Can you please copy these three PayPal items from the live site (http://www.marthawebb.com/smart-tools/) to the demo site 														(http://digitalparcdemo.com/marthawebb/dress-your-house/)?
+	
+	Online Access Subscription and Personal Landing Page
+	Dress Your House For Success DVD
+	Dress Your House For Success Checklists
+
+	The new design for these items can be seen here:
+	https://xd.adobe.com/view/7f5ee610-bed7-4f1d-6f4a-ddfb875ca0d6-096f/screen/8139a3f1-e253-4cf9-bcbc-0b8ba252fa86/Web-1920-3?fullscreen
+
+	Please note that the client would also like to combine/include the Dress Your House For Success Specials options in the drop-down menu for the Dress Your House 	For Success DVD.
+========================================================================================================================
+newsmile
+teamstepup
+
+	https://newsmile.ussl.co/wp-admin
+	https://teamstepup.ussl.co/wp-admin/
+
+	Admin:
+	
+		UserName : teamstepup
+		Password : #TeamStepUp1213
+
+	OLD ADMIN: 
+
+		UserName: SupTeam
+		Password : #stepupteam1213
+
+	FTP:
+		Host : ftp.s485.upress.link
+		UserName : developer@teamstepup.ussl.co
+		Password : XzouEkrUBPf_
+==========================================================================================================================================
+https://www.crystalkitchen.com/upcoming-seminars/
+
+	Admin details
+
+		user : dpadmin
+		pass : zlFkYPqDZc8OyZ2pqa9bITggZLE0oZW9f0
+
+
+	FTP details
+		HN : ftp.crystalkitchen.com
+		UN : developer@crystalkitchen.com
+		PW : OSZjUdoyW?J{
+
+==============================================================================
+https://lyonworkstage.wpengine.com/wp-admin/
+
+	SFTP
+		host : lyonworkstage.sftp.wpengine.com
+		port : 2222
+		user : lyonworkstage-helpdesk
+		pass : vlxPb7XFH0eN
+=============================================================================
+https://www.quasar-med.com/wp-admin
+Username: Ariel
+Pass: QIL2012@Quasar1988
+
+c-panel
+	https://israel74.jetserver.net:2083/cpsess0150115410/frontend/paper_lantern/index.html?login=1&post_login=29590667024871
+	quasaren
+	nx1XVa07o1
+
+	FTP Username: developer@quasar-eng.com
+	FTP server: ftp.quasar-eng.com
+	FTP & explicit FTPS port:  21
+	Password : #8]J$(~Xi;53
+
+
+	FTP Username: teamstepup@quasar-med.com
+	#TeamStepUp1213
+	FTP server: ftp.quasar-eng.com
+	FTP & explicit FTPS port: 21
+
+=======================================================================================================
+https://squareup.com/signup?
+
+email -- aarti@esparkinfo.com	
+password -- chits1234
+country -- false
+
+====================================================================================================
+
+https://www.tasowheel.fi/wp-admin/
+
+	Admin :
+		user : Teemu
+		password : Teemuntasopyörät99
+
+	SSH/SFTP :
+		Host : tasowheel.fi.seravo.com
+		Port : 10931
+		User : tasowheel
+		Pass : HwnQMwCxDThYXCwxVZDnn2DhNaagvfg6
+
+==================================================================================================
+Riteks
+	http://www.taskgrids.com/riteks/wp-admin
+
+	FTP 
+		Host     : 192.168.13.2
+		Username : ftp_riteks
+		Password : riteks@123
+		Port 	 : 21
+
+	Database: 
+		Database : espark_riteks
+		Username : espark_riteks
+		Password : sdfse234757
+	Admin:
+		Username : wpbiz
+		Password : )eQRMCaMrsD$1P3Knf
+?2019
+=======================================================================================================
+teraselementti
+
+	Osoite: https://teraselementti.seravo.fi/wp-admin/
+
+		Käyttäjänimi: tommi
+		Salasana: AYndKGRYQRtGw3pNYZFATyYHd4G9Gmfp
+
+	https://teraselementti.seravo.fi/wp-admin/
+
+	ADMIN : 
+
+		username : wp-user
+		password : qX90ZtRnizM7$Jn1YTzauUu&
+
+	FTP :
+		Host: sftp://teraselementti.seravo.fi
+		User: teraselementti
+		Pass: mfYZ3eamFQZe369mW3yvJHkZfEJAzRx9
+		Port: 10987
+
+
+=================================================================================
+Partycenter
+
+	http://www.taskgrids.com/partycenter/wp-admin/
+
+	FTP 
+		Host     : 192.168.13.2
+		Username : ftp_partycenter
+		Password : partycenter@123
+		Port 	 : 21
+
+	Admin:
+		Username : partycenter
+		Password : p*Kz1Qy&HO4w&e15yf$1P3Knf
+		New Password : SueWgiQ1ZJMWYl#Vx$!xKXhQ
+SueWgiQ1ZJMWYl#Vx$!xKXhQ
+
+=======================================================================================================
+brandsperity
+
+	http://senzalabs.com/brandsperity/wp-admin
+		
+		FTP : 
+			Host : ftp.senzalabs.com
+			Username : developer@senzalabs.com
+			port	: 21
+			pass : ,J?B5i_i%JQ#
+		Admin :
+			Username: brandsperity
+			Password: fsmg0t*WKoHxGILXAf
+		DATABASE Details
+			https://shop.anythingwithink.com/phpmyadmin
+				Username : root
+				Password : Finnair9090!@#
+
+=======================================================================================================
+	Wawer Town
+		
+		http://www.taskgrids.com/wawertown/wp-admin/
+		
+		FTP 
+			Host     : 192.168.13.2
+			Username : ftp_wawer
+			Password : wawer@123
+			Port 	 : 21
+
+		Database: 
+			Database : espark_wawer
+			Username : espark_wawer
+			Password : sdfse234757
+
+		Admin:
+			Username : wpbiz
+			Password : 	FHrfDy0#w2L5ll@WKx
+
+http://miasteczkowawer.pl/
+https://app.avocode.com/login/
+Favorites 
+
+Favorited <i class="sf-icon-star-full"></i>
+Favorite <i class="sf-icon-star-empty"></i>
+
+24,267, 78,267, 79,271, 103,272, 101,353, 22,353
+
+
+ulubiony
+=======================================================================================================================
+getasub
+	
+	http://www.taskgrids.com/getasub/wp-admin
+	
+	FTP 
+		Host     : 192.168.13.2
+		Username : ftp_getasub
+		Password : getasub@123
+		Port 	 : 21
+
+	Database: 
+		Database : espark_getasub
+		Username : espark_getasub
+		Password : sdfse234757
+
+	Admin:
+		Username : wpbiz
+		Password : y2m2HRP!
+==============================================================================================================================
+
+aestheticsherts
+
+	https://www1.botulinumtoxinclub.co.uk/book-today?hs_preview=EYANUfaS-7665882419
+
+	http://book.aestheticsherts.co.uk/wp-admin/
+
+	FTP 
+		PATH     : /public_html/book/wp-content/themes/aestheticsherts/style.css
+		Host     : aestheticsherts.co.uk
+		Username : developer@book.aestheticsherts.co.uk
+		Password : EG_9{%ER-6Qk
+		Port 	 : 21
+
+	Admin:
+		Username : Admin
+		Password : 2#$VI9@BwA
+
+01438 300 111
+		
+=======================================================================================================================
+
+https://us-aard.com/wp-admin
+
+	Admin :
+		Username : eddievo
+		Password : esparkbiz!2
+
+	FTP :
+		Host     : ftp.us-aard.com
+		Username : webdeveloper@us-aard.com
+		Password : oQy]wH;=t;**
+		Port 	 : 21
+		
+==============================================================================
+Migrate -- https://investseinajoki.fi/ to https://yrittajaksiseinajoelle.fi-s.seravo.com/
+
+https://yrittajaksiseinajoelle.fi-s.seravo.com/wp-admin/
+
+	Admin :
+		Username : tommi
+		Password : dEXqqzeT2fGgQ3FfvfWGaVqfAMAwRQ63
+
+	SSH/SFTP :
+		Host : yrittajaksiseinajoelle.fi-s.seravo.com
+		Port : 10505
+		Username : yrittajaksiseinajoelle
+		Password : qAKxWNYZ2JfKZ449mVyrTzfpMYn32Fmw
+
+--------------------------------------------------------------------------------------------------
+https://investseinajoki.fi/
+
+	Admin :
+		Username : wpbiz
+		Password : m!PZzjOFuoJwtdjCOH
+
+	SSH/SFTP :
+		host : investseinajoki.fi-s.seravo.com
+		username : investseinajoki
+		password : ZXmXmeKEJ3Ath6gTeqehEmeYCGafrGtq
+		Port : 10299
+		
+====================================================================================================
+Digitalparc
+
+	Admin :
+		Username : dpadmin 
+		Password : HzzvoTBnsyNQXRdO6gfN98h1dce07QvkjQ0a
+
+	FTP : 
+		Host : ftp.digitalparcdemo.com
+		User : henry2@digitalparcdemo.com
+		Password : Chits@123Chits@123
+		
+		server: ftp.villeau.com
+		port:  21
+		Username: developer@villeau.com
+		Password : 6tknQatibxhE
+======================================================================================================
+mansidemo	
+	http://192.168.13.2/mansidemo/wp-admin/
+	
+	FTP 
+		Host     : 192.168.13.2
+		Username : ftp_mansidemo
+		Password : mansidemo@123
+		Port 	 : 21
+
+	Database: 
+		Database : espark_mansidemo
+		Username : espark_mansidemo
+		Password : sdfse234757
+
+	Admin:
+		Username : wpbiz
+		Password : zR9M*2@dg4vI!a$RSg
+
+======================================================================================================
+livinghealthylist
+
+	https://xd.adobe.com/view/bf186f33-b4f6-4d95-6be0-dc81d67694ea-c929/?fullscreen
+	https://xd.adobe.com/spec/d6dcdad7-de62-49c0-4003-1708167bfc77-a0ed/
+	
+	http://taskgrids.com/livinghealthylist/wp-admin
+	
+	FTP 
+		Host     : 192.168.13.2
+		Username : ftp_livinghealthylist
+		Password : livinghealthylist@123
+		Port 	 : 21
+
+	Database: 
+		Database : espark_livinghealthylist
+		Username : espark_livinghealthylist
+		Password : livinghealthylist@786
+
+	Admin:
+		Username : wpbiz
+		Password : D@8Q^wyDaU&J)(UCfM
+		
+	Login information to access the Jotform:
+		Username : Denisestegall
+		Email : Support @Denisestegall.com
+		Password : Denise1971$
+		
+	Credentials for Constant Contact:
+ 		Username : Support@denisestegall.com
+		Password : Denise1971$
+		
+				
+============================================================================================================
+livinghealthylist
+		
+	http://digitalparcdemo.com/livinghealthylist/wp-admin
+	
+	FTP : 
+		Host     : ftp.digitalparcdemo.com
+		User     : henry2@digitalparcdemo.com
+		Password : Chits@123Chits@123
+		
+	Admin:
+		Username : wpbiz
+		Password : D@8Q^wyDaU&J)(UCfM
+		
+============================================================================================================
+livinghealthylist
+		
+	https://www.livinghealthylist.com/
+	
+	FTP :
+		Host     : ftp.livinghealthylist.com
+		User     : developer@livinghealthylist.com
+		Password : ehF-HA4fk9G?
+			
+	Admin:
+		Username : dpadmin
+		Password : NtowO4fP8q5foZfdnKB3OmeT2Kk5isrflUmq
+		
+Support@Denisestegall.com
+
+=========================================================================================================
+vinylfenceanddeck
+
+	https://www.vinylfenceanddeck.com/wp-admin/
+
+	Cpanel
+		https://snowball.brettworks.net:2083/
+			Username : demodigital	
+			Password : wZm7yzEXquqermTAZ5xMV75Kmyaflmznjv
+			
+	FTP 
+		Host     : vinylfenceanddeck.com
+		Username : webdeveloper@vinylfenceanddeck.com
+		Password : U8V9hlEgrDSK
+		Port 	 : 21
+
+	Database: 
+		Database : vinylfen_wpdb11
+		Username : vinylfen_wpusr11
+		Password : ZEh6nozgEanOeoNoKERkt41whCxq7nGc1
+
+	Admin:
+		Username : dpadmin 
+		Password : oBbNwDNV4Nng8fwjwAy55nyd1l0VfSzHRE
+		
+	Recptcha
+		Site Key : 6Lcm85YUAAAAAEgcn5beUUILgMuK_a9RLxlk-24z
+		Secret Key : 6Lcm85YUAAAAAJl3_wr4oQQM2Y_CfLKI8abaK-S9
+	
+	VFB Pro
+		License Email : President@vinylfenceanddeck.com
+		Password : Seattle1
+		License Key : 16653
+		
+	form 10 New Dealer Signup
+		https://www.vinylfenceanddeck.com/sales-support/dealer-inquires/
+	form 11 Patio Cover and Pergolas
+		https://www.vinylfenceanddeck.com/?page_id=5030&preview=true
+	form 9 Railing & Decking
+		https://www.vinylfenceanddeck.com/contact-us/contact-quotes-decks-railing/	
+==================================================================================================================
+DigitalParcDemo
+
+	Cpanel
+		https://snowball.brettworks.net:2083/
+			Username : demodigital	
+			Password : wZm7yzEXquqermTAZ5xMV75Kmyaflmznjv
+			
+	FTP 
+		Host     : ftp.digitalparcdemo.com
+		Username : henry2@digitalparcdemo.com
+		Password : Chits@123Chits@123
+		Port 	 : 21
+		
+==================================================================================================================
+ambassador	
+	http://taskgrids.com/ambassador/wp-admin/
+	
+	FTP 
+		Host     : 192.168.13.2
+		Username : ftp_ambassador
+		Password : ambassador@123
+		Port 	 : 21
+
+	Database: 
+		Database : espark_ambassador
+		Username : espark_ambassador
+		Password : qCgswe@VC6i
+
+	Admin:
+		Username : wpbiz
+		Password : dsf2adasf34@#
+==================================================================================================================
+theairlineacademy
+
+	https://theairlineacademy.com/wp-admin
+	
+	ZOHO CRM WEBFORM URL -->>> https://crm.zoho.com/crm/org668315060/settings/webform
+	
+	ZOHO Credential:
+		Username : jsimso@theairlineacademy.com
+		Password : Garden1a
+		
+==================================================================================================================
+Volunteer	
+
+	http://taskgrids.com/Volunteer/
+	
+	FTP 
+		Host     : 192.168.13.2
+		Username : ftp_volunteer
+		Password : volunteer@123
+		Port 	 : 21
+
+	Database: 
+		Database : espark_volunteer
+		Username : espark_volunteer
+		Password : qCgswe@VC6i
+
+	Admin:
+		Username : wpbiz
+		Password : T!CxkvarVqvlmr7cau
+
+==================================================================================================================
+Keystone
+
+	http://senzalabs.com/keystone
+	
+	Admin :
+		Username: keystoneadmin
+		Password: Oj(GW9HLpC5EnptsiC
+		
+	FTP :
+		Host     : ftp.senzalabs.com
+		Username : developer1@senzalabs.com
+		Password : ?-Ro2geQ2Yk{
+		Port 	 : 21
+	
+	Our GoDaddy Account Info:
+		Username : KeystonePurls
+		Password : KMPurls3540
+
+	Migrate to this domain
+		https://www.kmprint.biz/
+		
+	Database: 
+	
+		Database : keystone
+		Username : keystone
+		Password : il~AJr+C5EVY
+		
+		Database : db_keystone
+		Username : db_keystone
+		Password : eT9mNp&]SN+M
+	
+==================================================================================================================
+xplusrealestate
+
+	https://www.xplusrealestate.com/stage/
+	
+	Word Press login
+		Username : weston
+		Password : 4flat737$
+
+	FTP 
+		Server   : ftp.xplusrealestate.com
+		Port     : 21
+		Username : stage@xplusrealestate.com
+		Password : WfZmmCPy,a3i
+	
+==================================================================================================================
+solicitor
+
+	http://taskgrids.com/solicitor/wp-admin/
+	
+	Word Press login
+		Username : wpbiz
+		Password : CQhtMWvLaqt682IZFp
+
+	FTP 
+		Server   : 192.168.13.2
+		Port     : 21
+		Username : ftp_solicitor
+		Password : solicitor@123
+		
+		vickyesh@gmail.com
+<vickyesh@gmail.com>
+
+class:selectpicker
+Bookkeeping & Payroll Services
+Tax prep work
+====================================================================================================================
+merit--hub-v9flcltmdmp
+
+	https://v9flcltmdmp.c.updraftclone.com/merit-hub-2/
+	
+		FTP 
+			Server   : v9flcltmdmp.c.updraftclone.com
+			Port     : 20022
+			Username : wwwuser
+			Password : 72281f72a76806c49326537323a633d8a0227bee8b60c1ef53f813dd838b5727
+
+		Admin :
+			Username : emilyd
+			Password : Uxdigital2018!
+==================================================================================================================
+kayhira
+
+	https://kayhira.de/duefte-men/
+	
+		Admin :
+			Username : AdminKayhira
+			Password : OwqAoDmSw*PFuscjssw1BHEb
+		
+		FTP 
+			Server   : w014554c.kasserver.com
+			Port     : 21
+			Username : w014554c
+			Password : kzLhfvvv3HaLoaNs
+
+[products category="dufte-men" orderby="id" order="DESC"]
+=======================================================================================================================
+partytruckgamecenter
+	
+	Admin :
+		Username : Ron
+		Password : P@#8LXGtTxRG*F&!2xY#yZp5
+		
+	Admin :
+		Username : wanda
+		Password : tD7dGC
+		
+	GoDaddy : 
+		Username : 46691883
+		Password : Freedom17
+
+	https://www.partytruckgamecenter.com/
+	
+		FTP 
+			Server   : ftp.partytruckgamecenter.com
+			Port     : 21
+			Username : developer@partytruckgamecenter.com
+			Password : 2Ai^[3U)H%Td
+	
+	http://taskgrids.com/partytruckgamecenter/wp-admin/
+	
+		FTP 
+			Server   : 192.168.13.2
+			Port     : 21
+			Username : ftp_partytruckgamecenter
+			Password : partytruckgamecenter@123
+		
+on_sent_ok: "trackMtroLeadForm('frmContactUs')"
+====================================================================================================================
+soapcafemalta
+
+	soapcafemalta.com/wp-admin
+	
+	Admin :
+		Username : adrian_r07fb77x
+		Password : A4*IuO1V#%nrcfQzOFoGM(yK
+	
+	FTP 
+			Server   : 91.109.4.226
+			Port     : 21
+			Username : soapcafe
+			Password : SoapCafe-20!8
+
+====================================================================================================================
+thunderbirdaviation
+
+	http://www.thunderbirdaviation.com/admin
+	
+	Admin :
+		Username : admin33
+		Password : Tech749dept!
+
+Cpanel : 
+	https://gator4092.hostgator.com:2083
+		Username : techdept
+		Password : Tech749dept!
+--------------------------------------------------------------------------------------------------------		
+thunderbirdaviation -- Staging		
+	http://thunderbirdaviation.com/staging/
+	
+	Admin :
+		Username : admin33
+		Password : Tech749dept!
+		
+	Database: 
+		Database : techdept_staging
+		Username : techdept_staging
+		Password : nQIgW;X1aFO9
+		
+	FTP : 
+		server   : ftp.thunderbirdaviation.com
+		Username : developer@thunderbirdaviation.com
+		Password : TXh4%7eR[[F0
+		port 	 :  21
+		TXh4%7eR[[F0
+		
+		New
+		server   : ftp.thunderbirdaviation.com
+		Username : developer1@thunderbirdaviation.com
+		Password : 79Kqc@OD1Q5+
+		port 	 :  21
+		79Kqc@OD1Q5+
+====================================================================================================================
+cncinsurance
+
+	http://www.taskgrids.com/wpteam2/cncinsurance/
+	
+		
+	
+	Admin :
+		Username : cncinsurance
+		Password : ptJc*72G2?*cfKQ4
+	
+	FTP 
+		Server   : 192.168.13.2
+		Port     : 21
+		Username : ftp_wpteam2
+		Password : wpteam2@123
+		
+		
+=====================================================================================================================	
+Espark Venture Partners	
+
+	http://www.taskgrids.com/esparkventurepartners/
+	
+	FTP 
+		Host     : 192.168.13.2
+		Username : ftp_venturepartners
+		Password : venturepartners@123
+		Port 	 : 21
+
+	Database: 
+		Database : espark_venturepartners
+		Username : espark_venturepartners
+		Password : qCgswe@VC6i
+
+	Admin:
+		Username : wpbiz
+		Password : yYgeQl*A#oQE)8RgMa
+from = [contact-email] <wordpress@deviox.dv.themerex.net>
+ to = info@themerex.net
+ 
+ [mc4wp_form id="352"]
+ popmake-784
+project-form
+====================================================================================================================
+Abdul Latif Jameel
+
+	http://www.taskgrids.com/alj/wp-admin
+	
+	FTP 
+		Host     : 192.168.13.2
+		Username : ftp_alj
+		Password : alj@123
+		Port 	 : 21
+
+	Database: 
+		Database : espark_alj
+		Username : espark_alj
+		Password : qCgsdg@sdf12i
+
+	Admin:
+		Username : wpbiz
+		Password : eYCyA2j61re@NQmBVR
+
+====================================================================================================================
+thepaseovenue
+
+	https://thepaseovenue.com/wp-admin/
+	
+	Word Press login
+		Username : admin
+		Password : PasVe11!#22
+
+	FTP 
+		Server   : thepaseovenue.com
+		Port     : 22
+		Username : a75442107617744
+		Password : f={7_K1/OH
+		
+	GoDaddy
+		Username : 74292764 / Ederavenue
+		Password : PasVe11!#23
+		
+--------------------------------------------------------------------------------------------------------------
+
+	http://taskgrids.com/wpteam2/thepaseovenue/wp-admin/
+	
+	Word Press login
+		old : 
+			Username : wpbiz
+			Password : #s5A6)@y#@qZRaabxN
+		New : 
+			Username : admin
+			Password : PasVe11!#22
+		
+==============================================================================================================
+Alvin
+
+	http://taskgrids.com/wpteam2/alvin/
+	
+	Admin :
+		Username : wpbiz
+		Password : XHkYpI3WiQH#UrD(jf
+		
+	FTP 
+		Host     : 192.168.13.2
+		Username : ftp_wpteam2
+		Password : wpteam2@123
+		Port 	 : 21
+
+	Database: 
+		Database : espark_alvin
+		Username : espark_alvin
+		Password : alvin@786
+		
+	COLOR : 	
+		fd226a
+		7c529c	
+		
+===========================================================================================
+optamarkgraphics 
+
+	https://optamarkgraphics.com
+	
+	Admin :
+		Username : admin
+		Password : Finnair9090@)(*
+			
+	Browser :
+		Username : optamark
+		Password : cto@anythingwithink
+		
+==================================================================================
+Lehvoss
+
+	http://192.168.10.85:3000/Lehvoss/
+	
+	Admin :
+		Username : wpbiz
+		Password : 2ptEVwO360jzwUbeKD
+	
+	Database: 
+	
+		Database : lehvoss
+		Username : root
+		Password : qCgsdg@sdf12i
+		
+	Network Sharing :
+		Host     : 192.168.10.85
+		path 	 : \\192.168.10.85\NetBeansProjects\Lehvoss\wp-content\themes\lehvoss
+		
+==============================================================================================
+Live 
+
+	https://lehvoss-getraenke.ch/	
+	
+		Admin :
+			Username : wpbiz
+			Password : 2ptEVwO360jzwUbeKD
+		
+		Admin :	
+			wp-admin : osheelang
+			password : PD!6iS@mee8UAoyS5b4Ranys
+			
+		Admin :	
+			wp-admin : stuntarts
+			password : $S(7Hvgc&Br4fGpcGxb6E6OD
+
+		FTP : 
+			Username :  lehvoss-schneider
+			Password : 	3Vgzy*m+`2>/Wm+>7=]h^3>U,{U(.w`u
+			
+		https://lehvoss-getraenke.ch:8443
+
+		cpanel
+			Username :  sniederer
+			Password :  -qo*DU+$^%.E7rBbZ,BmLSsnRa6MQYV}
+
+		Database: 
+			Database : lehvoss
+			Username : lehvoss
+			Password : pYkx61^2		
+		
+	http://lehvoss-bev.ch
+	
+		Admin :
+			Username : wpbiz
+			Password : 2ptEVwO360jzwUbeKD
+			
+		Database: 
+			Database : lehvoss-bev
+			Username : lehvoss-bev
+			Password : Eq2q&1n7
+			
+		https://330.hostserv.eu:8443/
+		
+			Cpanel	
+				Username : sniederer
+				Password : -qo*DU+$^%.E7rBbZ,BmLSsnRa6MQYV}
+			FTP : 
+			Username :  developer
+			Password : 	!ie095hO
+			Host : https://lehvoss-bev.ch
+				
+				developer
+				!ie095hO
+				
+==================================================================================================================
+sheinspo
+
+	http://sheinspo.taskgrids.biz
+	
+	Admin :
+		Username : wpbiz
+		Password : p1z*1IpRWWDDOB4(3t
+	
+	Database: 
+	
+		Database : espark_sheinspo
+		Username : espark_sheinspo
+		Password : qCgsdg@sdf12i
+		
+	SFTP 
+		Host     : 192.168.13.13
+		Username : hrms
+		Password : Key File
+		Port 	 : SFTP
+=================================================================================================================
+castells
+
+	http://castells.staging.wpengine.com/wp-admin/
+	
+		
+	Admin :
+		Username : dharmik@esparkinfo.com
+		Password : j$cwxF2annF7bA6h
+	
+	Database: 
+		Database : espark_sheinspo
+		Username : espark_sheinspo
+		Password : qCgsdg@sdf12i
+		
+	SFTP 
+		Host     : sftp://castells.sftp.wpengine.com
+		Username : castells-dharmik
+		Password : X3OsUz19ib2B
+		Port 	 : 2222
+		
+================================================================================================================
+inclusiveadvisor
+
+	http://taskgrids.com/wpteam2/inclusiveadvisor
+	
+	http://3.83.80.189
+		
+	Admin :
+		Username : inclusiveadvisor
+		Password : zishFhY1AUHH&WkS1X
+	
+	Database: 
+		Database : espark_inclusive
+		Username : espark_inclusive
+		Password : qCgsdg@sdf12i
+		
+	FTP 
+		Host     : 192.168.13.2
+		Username : ftp_wpteam2
+		Password : ftp_wpteam2
+		Port 	 : 21
+		info@inclusiveadvisor.com
+		
+	https://inclusiveadvisor.com/
+	
+		Admin :
+		
+			Username : inclusiveadvisor
+			Password : zishFhY1AUHH&WkS1X
+	
+		Database :
+		
+			Username : inclusive
+			Password : Nv!6BQM*WwZaJ8Kj
+			
+		Browser : 
+		
+			Username : inclusive-web
+			Password : WvPf^g3C3-8Vf$h9
+				
+		SFTP 
+			Host     : 18.206.64.201
+			Username : ubuntu
+			Password : Key File -- C:\Users\kajal.dhameliya\Desktop\inclusive-wp\inclusive-wp.ppk  
+			Port 	 : 22
+			
+		Login Username 
+
+			Username : matt@540designstudio.com			
+			Password : Hermosa11!
+
+			Username : qshi@inclusiveadvisor.com			
+			Password : garden11
+
+		INclusive1
+		matt@540designstudio.com
+
+https://www.facebook.com/INclusive-Digital-Advisor-382379245643263/?view_public_for=382379245643263
+
+https://twitter.com/i_nclusive
+
+https://www.linkedin.com/company/inclusive-digital-advisor/about/?viewAsMember=true
+
+
+server-step__bottom-div
+================================================================================================================
+euroSystems
+
+	http://taskgrids.com/wpteam2/euroSystems
+		
+	Admin :
+		Username : wpbiz
+		Password : waWhT)(zJ%i2Z^RXW)
+	
+	Database: 
+		Database : espark_eurosystems
+		Username : espark_eurosystems
+		Password : qCgsdg@sdf12i
+		
+	FTP 
+		Host     : 192.168.13.2
+		Username : ftp_wpteam2
+		Password : wpteam2@123
+		Port 	 : 21
+		
+=============================================================================================================
+sfapromos
+
+	https://sfapromos.com/product/15oz-blockout-vinyl/
+		
+	Admin :
+	
+		Username : swagfromchina
+		Password : g^xoC24*ElTmZN5mI2
+		New Password : RGA$6dlJY6UBFH^!GPG43rU^
+		
+		andrew@optamarkgraphics.com
+		SveGpORT!3q%Z6ZD%gkF5A9G
+		h)(w5ncmP%K01A)USYWgU%gW
+		sfapromos new password : RGA$6dlJY6UBFH^!GPG43rU^
+		
+	FTP 
+		Host     : ftp.sfapromos.com
+		Username : developer@sfapromos.com
+		Password : 0Hyd74ZfI(4F
+		Port 	 : 21
+		
+=============================================================================================================
+findyourbalanceacupuncture
+
+	http://taskgrids.com/wpteam2/findyourbalanceacupuncture
+	
+	Admin :
+		Username : wpbiz
+		Password : MgJRefp9^a1reoBLlg
+		
+		Username : developer
+		Password : 3aJ2yXvSHJSj
+		New Username : developer
+		New Password : hdH919n8l6czqcw&N1m)eG^G
+		New Username : Suzanne
+		New Password : l856fC4d#2()dleeCUyEE#@Q
+	
+	Database: 
+		Database : espark_findyourbal
+		Username : espark_findyourbal
+		Password : findy@786
+		
+	FTP 
+		Host     : 192.168.13.2
+		Username : ftp_wpteam2
+		Password : wpteam2@123
+		Port 	 : 21
+		
+	https://smallbusiness.yahoo.com/	
+		
+		Username : balanceacupuncture@yahoo.com
+		Password : C@ncun12
+
+		FTP Detail
+			Username :  developer 
+						Q4qaykbuAmjXimd
+			PassWord :  Chits@123
+==========================================================================================
+findyourbalanceacupuncture
+		
+	www.findyourbalanceacupuncture.com/blog/wp-admin
+		
+		Admin :
+			Username : developer
+			Password : 3aJ2yXvSHJSj
+
+			yscr_bb5kOh
+			wpbiz
+			J2we9#s)w!!XfcSmCX
+
+======================================================================================================================
+testconstructwebnet
+
+	http://testconstructwebnet.ml/listing/chontaduro-barcelona/
+
+		FTP
+			Host		: ftp.testconstructwebnet.ml
+			IP			: 153.92.6.14
+			Port		: 21
+			Username	: u967256833.adminfortest
+			Password	: pnkKB7BEH6zYVAroWB
+		
+		Admin 
+			Username	: rishit
+			Password	: !z*sl$seNZZ$V^vnwt8ZdveG
+		
+=================================================================================================================== 
+phillyapartmentco
+
+	https://phillyapartmentco.com/wp-admin
+	
+	Admin 
+		Username : BrianMiller
+		Password : G1rfVolpcpV3$^h8@YBzpLCh
+		
+	https://my.wpengine.com/
+	
+	Cpanel
+		Username : brian@2b-unique.com
+		Password : bK310Zfy!@#
+		
+	SFTP
+		Host 	 : phillyaptco.sftp.wpengine.com
+		Port 	 : 2222
+		Username : phillyaptco-developer
+		Password : 5MarmKE6COZA
+		
+===========================================================================================================
+betterairus
+	
+	https://betterairus.com/kickoff
+
+		Admin 
+			Username : 2bdev
+			Password : p#)%8AO3Ad@LcpTqiKgBHOz9
+================================================================================================================
+P&T
+
+	http://taskgrids.com/wpteam2/P&T/
+		
+	Admin :
+		Username : wpbiz
+		Password : XfxJqlgc2Gi^QrTbYg
+	
+	Database: 
+		Database : espark_pt
+		Username : espark_pt
+		Password : qCgsdg@sdf12i
+		
+	FTP 
+		Host     : 192.168.13.2
+		Username : ftp_wpteam2
+		Password : wpteam2@123
+		Port 	 : 21
+		
+================================================================================================================
+Varu
+
+	http://taskgrids.com/wpteam2/varu/
+		
+		Admin :
+			Username : varu
+			Password : XfxJqlgc2Gi^QrTbYt
+		
+		CREATE USER 'espark_varu'@'localhost' IDENTIFIED BY 'qCgsdg@sdf12i';
+
+		Database: 
+			Database : espark_varu
+			Username : espark_varu
+			Password : qCgsdg@sdf12i
+			
+		FTP 
+			Host     : 192.168.13.2
+			Username : ftp_wpteam2
+			Password : wpteam2@123
+			Port 	 : 21
+		
+		
+	http://nexatestwp.com/varu/wp-admin
+		Admin:
+
+			Username : varu
+			Password : XfxJqlgc2Gi^QrTbYt
+			
+		Database 
+
+			Username : nexatest_varu
+			Database : nexatest_varu
+			Password : mYa5gy}OlikO
+
+		FTP 
+			Host	 : 34.239.53.69
+			Username : chitan@nexatestwp.com
+			Password : zj9()W*0tvz(
+======================================================================================================================
+Mapa
+
+	http://taskgrids.com/wpteam2/mapa/
+			
+	Admin 
+	
+		Username	: wpbiz
+		Password	: 2Mt^ZXE1MGS%TtO05x	
+	
+	Database: 
+		Database : espark_mapa
+		Username : espark_mapa
+		Password : mapa@786
+		
+	FTP 
+		Host     : 192.168.13.2
+		Username : ftp_wpteam2
+		Password : wpteam2@123
+		Port 	 : 21
+		
+==================================================================================================
+demo
+
+	http://taskgrids.com/wpteam2/demo/
+			
+	Admin 
+	
+		Username	: wpbiz
+		Password	: QBnIJYkh4npi92XDV7	
+	
+	Database: 
+		Database : espark_demo1
+		Username : espark_demo1
+		Password : qCgsdg@sdf12i
+		
+	FTP 
+		Host     : 192.168.13.2
+		Username : ftp_wpteam2
+		Password : wpteam2@123
+		Port 	 : 21
+		
+======================================================================================================================	
+
+Affirmed
+
+	http://taskgrids.com/wpteam2/affirmed/
+			
+	Admin 
+	
+		Username	: wpbiz
+		Password	: 0OH4Y0a96^@h4!MOig	
+	
+	Database: 
+		Database : espark_affirmed
+		Username : espark_affirmed
+		Password : qCgsdg@sdf12i
+		
+	FTP 
+		Host     : 192.168.13.2
+		Username : ftp_wpteam2
+		Password : wpteam2@123
+		Port 	 : 21
+		
+======================================================================================================================			
+hwcpadev	
+
+	https://hwcpadev.wpengine.com/wp-admin
+	
+	Admin 
+		Username	: projectmanager
+		Password	: gi@nefa&wrm5KktpEz8O0fnD
+	
+	SFTP
+		Host		: sftp://hwcpadev.sftp.wpengine.com
+		Username	: hwcpadev-bop
+		Password	: gi@nefa&wrm5KktpEz8O0fnD
+		Port		: 2222
+
+=========================================================================================================================	
+intrinsics
+	
+	https://www.intrinsics.net/wp-login.php
+	
+	Admin 
+		Username : markelle
+		Password : P%kUw^Vq)t4skUIz
+
+========================================================================================================================
+Ebiz cpanel credential
+
+	Cpanel
+		http://ebizwork.com/cpanel
+
+			Username : ebizwo6
+			password : Bx?*%5rvx?*%5rvzP%RB
+	FTP 	
+		
+		Hostname : ftp.ebizwork.com
+		Username : ebizteam@ebizwork.com
+		password : Ws%}8]Tw;5Io
+
+========================================================================================================================
+genuine
+
+	http://ebizwork.com/wpdemo/genuine/wp-admin
+
+	Admin 
+		Username : philwebservices
+		Password : pHilwEb00!
+
+=============================================================================================================================
+buysellshoutouts
+
+	https://buysellshoutouts-staging.rp64r1pa-liquidwebsites.com/wp-admin/
+
+	Admin 
+		Username : 37solutions
+		Password : gcS7p(kGb3yga1S%^7Y)!StO
+
+	FTP 
+		SFTP	: 67.227.190.154
+		User	: s253
+		Pass	: zD7P5VJBucWYmXrc0khhUQD
+		Path	: /home/s253/html/
+
+=============================================================================================================================
+worldtrademonth
+
+	http://digitalparcdemo.com/worldtrademonth/
+
+	Admin 
+		Username : dpadmin
+		Password : International123@	
+
+	FTP 
+		Host		: ftp.digitalparcdemo.com 
+		Username	: henry2@digitalparcdemo.com
+		Password	: Chits@123Chits@123
+		Port 		: 21
+
+===============================================================================================================================
+
+Kennedy Communication
+
+	https://dev-kennedy-speech.pantheonsite.io/wp-admin/
+
+	https://github.com/olefredrik/FoundationPress
+
+	Admin 
+		Username	: developer
+		Password	: MQs*8OMA91yQSXnS2lcBAX#G
+
+		Username	: bop-admin
+		Password	: DvX5L1MlOjnapDgGba3O9JeI
+
+		Username	: admin
+		Password	: yn@tAFfcRnGbAMykhqniHxTc
+				
+	SFTP
+		Username	: dev.54f4c32f-3815-4354-bbc3-705252abcbe3
+		Password	: bopdesign#10
+		Hostname	: appserver.dev.54f4c32f-3815-4354-bbc3-705252abcbe3.drush.in
+		Port		: 2222
+
+====================================================================================================================
+myheritageware
+
+	http://myheritageware.com/
+
+	Admin 
+		Username : admin
+		Password : #2D8%@wymB
+
+	FTP 
+		Host		: ftp.myheritageware.com
+		Username	: developer@myheritageware.com
+		Password	: developer@123
+		Port 		: 21
+
+===================================================================================================
+erez
+	https://erez-itum.ussl.blog/
+
+	https://docs.google.com/document/d/1GU88CxqQA5l5Mk7ookGk_Oajx2qG_7u48iKlcaAbOtg/edit
+
+	Admin 
+		Username: webmaster@stepup.email
+		Password: #TeamStepUp1213
+
+	FTp 
+		Host     : ftp.s504.upress.link			
+		Username : developer@erez-itum.ussl.blog
+		Password : @Ye2S847Vqy%
+		Port 	 : 21
+
+===================================================================================================
+realestate-blueridge	
+
+	https://realestate-blueridge.mystagingwebsite.com/wp-admin/
+
+	Admin
+		Email 		: bryan@andersontaylor.com
+		Username 	: bryan
+		Password 	: 6D)junxIT#CT!!HKyDeu*jAL 	
+
+	Account API Key
+
+		Current Key : 4eZ2i2zYETpy5fzF_ivhA_
+
+	Client Login 
+
+		https://middleware.idxbroker.com/mgmt/login
+
+			Username : donnaoneal@cbhighcountry.com
+			Password : 6&XsBzn-5G
+
+===============================================================================================================================
+hotelliherkko
+
+	https://www.hotelliherkko.fi/
+
+	Admin 
+		Username: Dharmik
+		Password: 5gum63xgw4qvTD
+
+	FTp 
+		Host     : www.hotelliherkko.fi		
+		Username : hotelliherkko
+		Password : jFzfYZA7uLVK
+		Port 	 : 21
+
+	Browser
+		Username : herkko 
+		Password : HotelliHerkko
+
+===============================================================================================================================
+centerpoint
+
+	http://digitalparcdemo.com/centerpoint/wp-admin/
+https://xd.adobe.com/view/117dfe51-d449-4611-5852-21fd91607d08-674c/screen/bbbcc545-9e84-413d-b359-197cd2edc957/Web-1920-29
+
+	Admin 
+		Username : cenpoin
+		Password : Tradeshow123@
+
+	https://www.centpoint.com/wp-admin/
+
+	Admin 
+		Username : dpadmin
+		Password : p36GG5jwojy2DeldJdEmExIckY7VJy2SFG
+
+================================================================================================================
+
+	https://github.com/jquery-validation/jquery-validation
+
+	https://docs.google.com/document/d/1QoIuS-O1s6CouiSKWxQJ8ITLPMe4aFU9x0OK4esnuXQ/edit
+
+	http://www.schwartz.taskgrids.com
+	username :teamstepup 
+	password : #TeamStepUp1213
+
+
+	FTP 
+		Host     : 192.168.13.2
+		Username : ftp_wpteam2
+		Password : wpteam2@123
+		Port 	 : 21
+
+
+font-family: "Montserrat",sans-serif;
+
+===============================================================================================================================
+
+Plugin
+
+	Autoptimize
+	W3 Total Cache  
+
+================================================================================================================
+
+https://kerrybodine-new.taskgrids.biz/-- (  15 min ) -- updates
+http://www.schwartz.taskgrids.com/ -- ( 6 hours )  -- updates (https://docs.google.com/document/d/1QoIuS-O1s6CouiSKWxQJ8ITLPMe4aFU9x0OK4esnuXQ/edit)
+http://www.taskgrids.com/fourbynorth/discover-define/ ( 30 min ) -- ( sticky image in mobile view )
+
+
+
+
+
+
+Dark
+
+dark-2 7
+
+[wpv-layout-meta-html]
+
+
+.to('.box1', 1, {x:-2,y:180}).to('.box2', 1, {y:240}).to('.box3', 1, {x:-1,y:223}).to('.box4', 1, {y:190,delay:1}).to('.box5', 1, {x:-2,y:155,delay:1}).to('.box6', 1, {x:-5,y:231,delay:1}).to('.box7', 1, {y:280}).to('.box8', 1, {x:2,y:248,delay:1}).to('.box9', 1, {x:-5,y:254.5,delay:1}).to('.box10', 1, {x:-40,y:257,delay:1}).to('.box11', 1, {x:-10,y:232,delay:1})
+
+tl.to('.box1', 1, {duration: 1,y:50 },1).to('.box2', 2, {duration: 1,y:50 },1);
+
+http://www.taskgrids.com/wpteam2/cncinsurance/%20%20(%207%20hour%20)%20--%20Done%20Project.%0Ahttp://thunderbirdaviation.com/wp-admin/plugins.php%20%20(%2030%20min%20)%20--%20update%20plugin
+
+
+英酷智投
+
+developer1
+
+))!nq=cjV4Ns
+
+
+74955
+
+joshua@digitalparc.com
+
+
+
+var re = /^\d+(\.\d+)?$/;
+

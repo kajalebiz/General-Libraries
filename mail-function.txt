@@ -1,0 +1,18 @@
+<?php
+    add_action('constant_contact_after_email_send','livinghealthy_before_constant_contact_email_send',4,10);
+    function livinghealthy_before_constant_contact_email_send( $form_id, $submitted_email , $destination_email, $content) {
+        
+        $mail_from      = get_field( 'livinghealthy_general_mail_from','option');
+        $mail_subject   = get_field( 'livinghealthy_general_mail_subject','option');
+        $mail_message   = get_field( 'livinghealthy_general_thank_you_message_mail_body','option');
+        $mail_pdf       = get_field( 'livinghealthy_general_mail_pdf_attachment','option');
+        $pdf_url        = $mail_pdf['url'];
+        $upload         = wp_upload_dir();
+        $upload_path    = $upload['basedir'];
+        $image_folder   = explode("/uploads",$pdf_url);
+        $attachment     = $upload_path .''.$image_folder[1];
+        $headers = $mail_from."\n";
+        $headers .= "Content-Type: text/html\n";
+        $result     = wp_mail($submitted_email, $mail_subject, $mail_message, $headers,$attachment);
+        return true;
+    }
