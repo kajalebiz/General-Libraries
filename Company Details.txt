@@ -141,16 +141,14 @@
 		Demo Website: demo.idxbroker.com
 
 ================================================================================================
+	Stripe
 
-<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#8362;</span>372.00</span>
+		Login
+			User 	 : yatin@esparkbizmail.com/samplet611@gmail.com
+			Password : -ebA+Esa2r5w
 
+		Key
+			Publish key : pk_test_bfcHaJ5DBAMWGCZDTwSAWhRt
+			Secret key : sk_test_aAHlREXgZXxKwYVhHdKAsFjd
 
-
-
-
-
-
-
-http://taskgrids.com/alj ( 8 hours ) --   ,front page and team , project page  done ,contact, history career and project inner development done
-
-
+================================================================================================

@@ -322,6 +322,7 @@ fourbynorth
 
 		FTP :
 			Hostname : 192.168.13.2
+			Username : ftp_forthbynorth
 			Password : forthbynorth@123
 
 		Database: 
@@ -2139,7 +2140,8 @@ hotelliherkko
 centerpoint
 
 	http://digitalparcdemo.com/centerpoint/wp-admin/
-https://xd.adobe.com/view/117dfe51-d449-4611-5852-21fd91607d08-674c/screen/bbbcc545-9e84-413d-b359-197cd2edc957/Web-1920-29
+
+	https://xd.adobe.com/view/117dfe51-d449-4611-5852-21fd91607d08-674c/screen/bbbcc545-9e84-413d-b359-197cd2edc957/Web-1920-29
 
 	Admin 
 		Username : cenpoin
@@ -2152,14 +2154,17 @@ https://xd.adobe.com/view/117dfe51-d449-4611-5852-21fd91607d08-674c/screen/bbbcc
 		Password : p36GG5jwojy2DeldJdEmExIckY7VJy2SFG
 
 ================================================================================================================
+schwartz
 
 	https://github.com/jquery-validation/jquery-validation
 
 	https://docs.google.com/document/d/1QoIuS-O1s6CouiSKWxQJ8ITLPMe4aFU9x0OK4esnuXQ/edit
 
 	http://www.schwartz.taskgrids.com
-	username :teamstepup 
-	password : #TeamStepUp1213
+
+	Admin 
+		username : teamstepup 
+		password : #TeamStepUp1213
 
 
 	FTP 
@@ -2171,50 +2176,53 @@ https://xd.adobe.com/view/117dfe51-d449-4611-5852-21fd91607d08-674c/screen/bbbcc
 
 font-family: "Montserrat",sans-serif;
 
-===============================================================================================================================
+==================================================================================================================
+painfreedentalclinic
 
-Plugin
+	http://www.painfreedentalclinic.com.au/wp-admin
+	
+	Admin 
+		username : Localtag 
+		password : ,gFo[[6v#&*6
 
-	Autoptimize
-	W3 Total Cache  
+	FTP
+		Username  : developer1@painfreedentalclinic.com.au
+		server    : ftp.painfreedentalclinic.com.au
+		port      : 21
+		password  : ))!nq=cjV4Ns
+
+================================================================================================================
+kerrybodinelve
+
+	https://kerrybodine.com
+
+	Admin 
+		username: sheelang@fourbynorth.com
+		password: K@5!kg&kX5eJI1d5@z3aC1Pt
+
+	SFTP
+		host 	 : kbandco.sftp.wpengine.com
+		port 	 : 2222
+		Username : kbandco-webdeveloper1011
+		password : xS163WHoitnp
+
+	Stripe
+		Kerry Stripe Test Key 
+			Test Publishable Key : pk_test_fUOfaACc1OQdPj8iTUN1wu6b
+			Test Secret Key      : sk_test_Ili7Np4dQluPqg9fuGv78NcA
+
+		Kerry Stripe Live Key 
+			Test Publishable Key : pk_live_OFPM5m9OH9koYs33eQA5Y59V
+			Test Secret Key      : sk_live_8Qgn5nS3pgNTpjJNIJRXqN6s
 
 ================================================================================================================
 
-https://kerrybodine-new.taskgrids.biz/-- (  15 min ) -- updates
-http://www.schwartz.taskgrids.com/ -- ( 6 hours )  -- updates (https://docs.google.com/document/d/1QoIuS-O1s6CouiSKWxQJ8ITLPMe4aFU9x0OK4esnuXQ/edit)
-http://www.taskgrids.com/fourbynorth/discover-define/ ( 30 min ) -- ( sticky image in mobile view )
+
+================================================================================================================
+
+https://kerrybodine-new.taskgrids.biz/-- ( 8 hours ) -- updates -- email template , Text Changes, My Account Changes , Cart Coupon Message Changes , Membership Issue
+https://inclusiveadvisor.com/cash-promotion -- ( 15 min ) --  Create 2 PDF Viewer Pages
+https://inclusiveadvisor.com/zh-hans/cash-promotion/
 
 
-
-
-
-
-Dark
-
-dark-2 7
-
-[wpv-layout-meta-html]
-
-
-.to('.box1', 1, {x:-2,y:180}).to('.box2', 1, {y:240}).to('.box3', 1, {x:-1,y:223}).to('.box4', 1, {y:190,delay:1}).to('.box5', 1, {x:-2,y:155,delay:1}).to('.box6', 1, {x:-5,y:231,delay:1}).to('.box7', 1, {y:280}).to('.box8', 1, {x:2,y:248,delay:1}).to('.box9', 1, {x:-5,y:254.5,delay:1}).to('.box10', 1, {x:-40,y:257,delay:1}).to('.box11', 1, {x:-10,y:232,delay:1})
-
-tl.to('.box1', 1, {duration: 1,y:50 },1).to('.box2', 2, {duration: 1,y:50 },1);
-
-http://www.taskgrids.com/wpteam2/cncinsurance/%20%20(%207%20hour%20)%20--%20Done%20Project.%0Ahttp://thunderbirdaviation.com/wp-admin/plugins.php%20%20(%2030%20min%20)%20--%20update%20plugin
-
-
-英酷智投
-
-developer1
-
-))!nq=cjV4Ns
-
-
-74955
-
-joshua@digitalparc.com
-
-
-
-var re = /^\d+(\.\d+)?$/;
 

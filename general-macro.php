@@ -1,6 +1,21 @@
 <?php 
 //Instagram feed plugin name : Instagram Slider and Carousel Plus Widget
 
+//Plugin
+
+1.    Autoptimize
+2.    W3 Total Cache  
+
+
+.to('.box1', 1, {x:-2,y:180}).to('.box2', 1, {y:240}).to('.box3', 1, {x:-1,y:223}).to('.box4', 1, {y:190,delay:1}).to('.box5', 1, {x:-2,y:155,delay:1}).to('.box6', 1, {x:-5,y:231,delay:1}).to('.box7', 1, {y:280}).to('.box8', 1, {x:2,y:248,delay:1}).to('.box9', 1, {x:-5,y:254.5,delay:1}).to('.box10', 1, {x:-40,y:257,delay:1}).to('.box11', 1, {x:-10,y:232,delay:1})
+
+tl.to('.box1', 1, {duration: 1,y:50 },1).to('.box2', 2, {duration: 1,y:50 },1);
+
+joshua@digitalparc.com
+
+var re = /^\d+(\.\d+)?$/; ?>
+-------------------------------------------------------------------------------------------------------
+<?php 
 // Exit if accessed directly
 if ( !defined( 'ABSPATH' ) ) exit;
 
@@ -11,18 +26,26 @@ if ( !defined( 'ABSPATH' ) ) exit;
  * @subpackage riteks
  * @since riteks 1.0
  */
-WP EVENT MANAGER
 
-define('FS_METHOD', 'direct');
-
-$title_id           = trim(str_replace( ' ', '_', strtolower( $title ) ) );
-
-$banner_image     = !empty( $banner_image ) ? $banner_image['url'] : get_stylesheet_directory_uri().'/images/dummy.jpg';
 
 
 get_header();?>
 
 <?php get_footer();?>
+
+-------------------------------------------------------------------------------------------------------
+<?php 
+
+WP EVENT MANAGER
+
+define('FS_METHOD', 'direct');
+
+$title_id      = trim(str_replace( ' ', '_', strtolower( $title ) ) );
+
+$banner_image  = !empty( $banner_image ) ? $banner_image['url'] : get_stylesheet_directory_uri().'/images/dummy.jpg';
+
+?>
+-------------------------------------------------------------------------------------------------------
 <script>
    
     setTimeout(function(){ 
